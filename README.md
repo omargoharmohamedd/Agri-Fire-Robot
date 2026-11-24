@@ -1,6 +1,6 @@
 # Agriculture and Firefighting Robot System
 
-Graduation project, B.Sc. Mechatronics and Robotics Engineering, Mansoura University (2025). Graded 100/100.
+Graduation project, B.Sc. Mechatronics and Robotics Engineering, Mansoura University (2025).
 
 An end-to-end build: mechanical design, electronics, firmware and a browser control panel. A ground vehicle carries a robotic arm and water pumps, a separate sensor node watches the field, and a small drone scouts from the air. The goal was one system that can monitor a farm and respond to a fire, from the CAD model to the code running on the boards.
 
