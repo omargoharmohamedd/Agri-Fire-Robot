@@ -87,6 +87,12 @@ Everything was modeled in Autodesk Inventor before it was built.
 The control pages are served from the ESP32. The arm page uses the same design: five named position slots with Save and Play, plus refresh, reset to 90 degrees and a system info panel (IP and MAC blurred).
 
 <p align="center">
+  <img src="images/arm-control-page.jpeg" alt="Arm control page" width="760">
+  <br>
+  <sub>Arm control page: servo 1 to 6 buttons and a set field.</sub>
+</p>
+
+<p align="center">
   <img src="images/arm-web-ui-position-memory.jpeg" alt="Arm web interface, position memory" width="760">
   <br>
   <sub>Arm web interface: position memory and system controls.</sub>
