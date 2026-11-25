@@ -25,7 +25,7 @@ ground vehicle, 6-DOF arm, sensor node and scouting drone.
 
 ## Overview
 
-Graduation project, B.Sc. Mechatronics and Robotics Engineering, Mansoura University (2025), graded 100/100.
+Graduation project, B.Sc. Mechatronics and Robotics Engineering, Mansoura University (2025).
 
 The project covers the whole chain: mechanical design, electronics, firmware and a browser control panel. A ground vehicle carries a robotic arm and water pumps, a separate sensor node watches the field, and a small drone scouts from the air. The goal was one system that can monitor a farm and respond to a fire, from the CAD model to the code running on the boards.
 
